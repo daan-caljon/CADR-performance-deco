@@ -49,17 +49,3 @@ python scripts/[folder]/[script]
 
 All results (performance metrics and plots) are saved to dedicated folders in the repository during execution.
 
-
-## Citing
-
-Please cite our paper and/or code as:
-
-```
-@Article{src_of_gain,
-  author        = {Bockel-Rickermann, Christopher and Vanderschueren, Toon and Verdonck, Tim and Verbeke, Wouter},
-  title         = {Sources of gain: {D}ecomposing challenges in conditional average dose response estimation},
-  year          = {2024},
-  month         = 04,
-}
-
-```
