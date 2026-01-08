@@ -1,4 +1,4 @@
-# Sources of gain: Decomposing performance in conditional average dose response estimation </br><sub><sub> C. Bockel-Rickermann, T. Vanderschueren, T. Verdonck, W. Verbeke
+# A Data-Centric Decomposition of Estimator Performance in Continuous Treatment Effect Estimation
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![ArXiv: 2406.08206](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/pdf/2406.08206)
@@ -7,8 +7,6 @@
 This repository provides code for our manuscript "Sources of gain: Decomposing performance in conditional average dose response estimation".  
 
 In our manuscript, we evaluate the impacts of different data-generating processes on data-driven methodologies for conditional average dose response (CADR) estimation. We provide source code to reproduce our experiments, including data generators, performance evaluators, and learning methods.
-
-*Code author: C. Bockel-Rickermann ([christopher.rickermann@kuleuven.be](mailto:christopher.rickermann@kuleuven.be))*
 
 
 ## Repository structure
