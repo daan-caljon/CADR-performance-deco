@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-This repository provides code for our manuscript "Sources of gain: Decomposing performance in conditional average dose response estimation".  
+This repository provides code for our manuscript "A Data-Centric Decomposition of Estimator Performance in Continuous Treatment Effect Estimation".  
 
 In our manuscript, we evaluate the impacts of different data-generating processes on data-driven methodologies for conditional average dose response (CADR) estimation. We provide source code to reproduce our experiments, including data generators, performance evaluators, and learning methods.
 
