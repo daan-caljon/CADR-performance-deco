@@ -1,7 +1,7 @@
 # A Data-Centric Decomposition of Estimator Performance in Continuous Treatment Effect Estimation
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![ArXiv: 2406.08206](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/pdf/2406.08206)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 This repository provides code for our manuscript "Sources of gain: Decomposing performance in conditional average dose response estimation".  
